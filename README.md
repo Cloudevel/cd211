@@ -1,21 +1,23 @@
-### Introducci髇 a Javascript
+### Introducci贸n a Javascript
 
-* Javascript y ECMAScript
-* Tipos de datos y operadores
-* Expresiones, *console.log()* y comentarios
-* Variables
-* Colecciones de datos
-* Condicionales
-* Ciclos e iteraciones
-* Funciones
-* Creaci髇 de objetos
-* Ejemplo de clases
-* Ejemplo de herencia
-* Objetos, funciones y m閠odos globales
-* Los objetos de tipo String
-* Los objetos de tipo Number 
-* Los objetos Array
-* Los objetos Set y Map
-* Gesti髇 de excepciones
-* Javascript en documentos HTML
-* El DOM
+* Javascript y ECMAScript.
+* Expresiones, comentarios y *console.log()*.
+* Tipos de datos y operadores.
+* M茅todos, funciones y objetos globales.
+* Valores num茅ricos.
+* Cadenas de caracteres.
+* Definici贸n de variables.
+* El objeto Array.
+* Los objetos Map y Weakmap.
+* Los objetos Set y WeakSet.
+* El objeto JSON.
+* El objeto Math.
+* El objeto Date.
+* Expresiones l贸gicas y condicionales
+* Ciclos e iteraciones.
+* Funciones.
+* Creaci贸n de objetos.
+* Ejemplo de class.
+* Ejemplo de herencia.
+* Javascript en documentos HTML.
+* El DOM.
