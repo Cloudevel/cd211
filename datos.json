@@ -1,0 +1,7 @@
+{"nombre_completo": ["Juan", "Camarena", "Gil"],
+ "telefono": "5555-1234-67",
+ "materias": [
+     {"Física I": 7.5},
+     {"Matemáticas I": 8.3},
+     {"Geografía I": 9.5}
+      ]}
