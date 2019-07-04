@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Saluda</title>
+        <style>
+            #circulo {
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                background-color: skyblue;
+            }
+        </style>
+        <script>
+            function cambia_colores(){
+                let estilo = document.getElementById("circulo").style;
+                if (estilo.backgroundColor == "gold") {estilo.backgroundColor = "skyblue"}
+                else {estilo.backgroundColor = "gold"}
+            }
+        </script>
+    </head>
+    <body>
+        <div id="circulo"></div>
+        <p/>
+        <button type="submit" onclick="cambia_colores()">Cambiar</button> 
+    </body>
+</html>
